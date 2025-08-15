@@ -675,7 +675,7 @@ def run():
 
         <p align="justify">
             Built with 🤍 by 
-            <a href="https://jagadeeshrportfolio.vercel.app/ style="text-decoration: none; color: grey;">Jagadeesh Rallabandi</a> through 
+            <a href="https://jagadeeshrportfolio.vercel.app/">Jagadeesh Rallabandi</a> through 
             <a href="https://www.linkedin.com/in/mrbriit/" style="text-decoration: none; color: grey;">Dr Bright --(Data Scientist)</a>
         </p>
 

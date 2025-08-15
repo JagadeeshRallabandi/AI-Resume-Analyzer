@@ -259,31 +259,33 @@ If you want the full report of project
 **Overall Rating Analysis and Comment History**
 
 
-<img src="Screenshots\User_comments.png/>
+<img src="Screenshots\User_comments.png/">
 ### Admin
 
 **Login**
+<img src="Screenshots\adminlogin.png">
 
-![Screenshot](https://github.com/deepakpadhi986/AI-Resume-Analyzer/blob/main/screenshots/admin/1-main-screen.png?raw=true)
 
 **User Count and it's data**
 
-![Screenshot](https://github.com/deepakpadhi986/AI-Resume-Analyzer/blob/main/screenshots/admin/2-user-data.png?raw=true)
+<img src="Screenshots\userdata.png">
 
 **Exported csv file**
 
-![Screenshot](https://github.com/deepakpadhi986/AI-Resume-Analyzer/blob/main/screenshots/admin/3-user-datacsv.png?raw=true)
+<img src="Screenshots\excel.png">
 
 **Feedback Data**
 
-![Screenshot](https://github.com/deepakpadhi986/AI-Resume-Analyzer/blob/main/screenshots/admin/4-feed-data.png?raw=true)
+<img src="Screenshots\user_feedback.png">
 
 **Pie Chart Analytical Representation of clusters**
 
-![Screenshot](https://github.com/deepakpadhi986/AI-Resume-Analyzer/blob/main/screenshots/admin/5-pieexp.png?raw=true)
+<img src="Screenshots\pie2.png">
 
-![Screenshot](https://github.com/deepakpadhi986/AI-Resume-Analyzer/blob/main/screenshots/admin/6-piescre.jpg?raw=true)
 
-![Screenshot](https://github.com/deepakpadhi986/AI-Resume-Analyzer/blob/main/screenshots/admin/7-pielocation.png?raw=true)
+<img src="Screenshots\pie_chart.png">
+
+
+<img src="Screenshots\piechar3.png">
 
 ### Built with 🤍 AI RESUME ANALYZER by <a href="https://jagadeeshrportfolio.vercel.app/">Jagadeesh Rallabandi</a>
