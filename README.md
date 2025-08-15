@@ -168,7 +168,7 @@ python -m spacy download en_core_web_sm
 After installation is finished create a Database ```cv```
 
 And change user credentials inside ```App.py```
-https://github.com/JagadeeshRallabandi/AI-Resume-Analyzer/blob/17e1cdb207fef62557dc394f4158bda515e541fd/App/App.py#L95
+https://github.com/JagadeeshRallabandi/AI-Resume-Analyzer/blob/master/App/App.py#L96
 
 Go to ```venvapp\Lib\site-packages\pyresparser``` folder
 
