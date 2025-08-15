@@ -198,7 +198,7 @@ Feel Free to <a href="mailto:rjagadeeshnit@gmail.com?subject=I%20have%20an%20iss
 - After the setup it will do stuff's automatically
 - You just need to upload a resume and see it's magic
 - Try first with my resume uploaded in ``Uploaded_Resumes`` folder
-- Admin userid is ``admin`` and password is ``admin@resume-analyzer``
+- Admin userid is ``admin`` and password is ``admin@password`
 
 <!-- Roadmap -->
 ## Roadmap 🛵
