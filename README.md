@@ -18,7 +18,7 @@
   <p>
     <small align="justify">
       Built with 🤍 by 
-      <a href="https://jagadeeshrportfolio.vercel.app/">Deepak Padhi</a> through 
+      <a href="https://jagadeeshrportfolio.vercel.app/">Jagadeesh Rallabandi</a> through 
       <a href="https://www.linkedin.com/in/mrbriit/">Dr Bright --(Data Scientist)</a>
      </small>
   </p>
