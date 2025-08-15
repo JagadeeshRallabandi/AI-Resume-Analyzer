@@ -229,38 +229,37 @@ If you want the full report of project
 
 **Main Screen**
 
-![Screenshot](https://github.com/deepakpadhi986/AI-Resume-Analyzer/blob/main/screenshots/user/1-main-screen.png?raw=true)
+<img src="Screenshots\Main.png"/>
 
 **Resume Analysis**
 
-![Screenshot](https://github.com/deepakpadhi986/AI-Resume-Analyzer/blob/main/screenshots/user/2-analysis.jpg?raw=true)
+<img src="Screenshots\resume_analysis.png"/>
 
 **Skill Recommendation**
 
-![Screenshot](https://github.com/deepakpadhi986/AI-Resume-Analyzer/blob/main/screenshots/user/3-recom.png?raw=true)
+<img src="Screenshots\Skill_recc.png"/>
 
 **Course Recommendation**
 
-![Screenshot](https://github.com/deepakpadhi986/AI-Resume-Analyzer/blob/main/screenshots/user/4-recom.png?raw=true)
+<img src="Screenshots\Course_recc.png"/>
 
 **Tips and Overall Score**
 
-![Screenshot](https://github.com/deepakpadhi986/AI-Resume-Analyzer/blob/main/screenshots/user/5-tipsscore.png?raw=true)
+<img src="Screenshots\score.png"/>
 
 **Video Recommendation**
-
-![Screenshot](https://github.com/deepakpadhi986/AI-Resume-Analyzer/blob/main/screenshots/user/6-recom.png?raw=true)
+<img src="Screenshots\Bonus_video.png"/>
 
 ### Feedback
 
 **Feedback Form**
 
-![Screenshot](https://github.com/deepakpadhi986/AI-Resume-Analyzer/blob/main/screenshots/feedback/1-form.png?raw=true)
+<img src="Screenshots\Feedback_main.png"/>
 
 **Overall Rating Analysis and Comment History**
 
-![Screenshot](https://github.com/deepakpadhi986/AI-Resume-Analyzer/blob/main/screenshots/feedback/2-analytics.png?raw=true)
 
+<img src="Screenshots\User_comments.png/>
 ### Admin
 
 **Login**

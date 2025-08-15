@@ -143,22 +143,22 @@ def run():
     st.sidebar.markdown("# Choose Something...")
     activities = ["User", "Feedback", "About", "Admin"]
     choice = st.sidebar.selectbox("Choose among the given options:", activities)
-    link = '<b>Built with 🤍 by <a href="https://jagadeeshrportfolio.vercel.app/" style="text-decoration: none; color: #021659;">Deepak Padhi</a></b>' 
+    link = '<b>Built with 🤍 by <a href="https://jagadeeshrportfolio.vercel.app/" style="text-decoration: none; color: #021659;">Jagadeesh Rallabandi</a></b>' 
     st.sidebar.markdown(link, unsafe_allow_html=True)
-    st.sidebar.markdown('''
-        <!-- site visitors -->
+    # st.sidebar.markdown('''
+    #     <!-- site visitors -->
 
-        <div id="sfct2xghr8ak6lfqt3kgru233378jya38dy" hidden></div>
+    #     <div id="sfct2xghr8ak6lfqt3kgru233378jya38dy" hidden></div>
 
-        <noscript>
-            <a href="https://www.freecounterstat.com" title="hit counter">
-                <img src="https://counter9.stat.ovh/private/freecounterstat.php?c=t2xghr8ak6lfqt3kgru233378jya38dy" border="0" title="hit counter" alt="hit counter"> -->
-            </a>
-        </noscript>
+    #     <noscript>
+    #         <a href="https://www.freecounterstat.com" title="hit counter">
+    #             <img src="https://counter9.stat.ovh/private/freecounterstat.php?c=t2xghr8ak6lfqt3kgru233378jya38dy" border="0" title="hit counter" alt="hit counter"> -->
+    #         </a>
+    #     </noscript>
     
-        <p>Visitors <img src="https://counter9.stat.ovh/private/freecounterstat.php?c=t2xghr8ak6lfqt3kgru233378jya38dy" title="Free Counter" Alt="web counter" width="60px"  border="0" /></p>
+    #     <p>Visitors <img src="https://counter9.stat.ovh/private/freecounterstat.php?c=t2xghr8ak6lfqt3kgru233378jya38dy" title="Free Counter" Alt="web counter" width="60px"  border="0" /></p>
     
-    ''', unsafe_allow_html=True)
+    # ''', unsafe_allow_html=True)
 
     ###### Creating Database and Table ######
 
@@ -669,13 +669,13 @@ def run():
             <b>Feedback -</b> <br/>
             A place where user can suggest some feedback about the tool.<br/><br/>
             <b>Admin -</b> <br/>
-            For login use <b>admin</b> as username and <b>admin@resume-analyzer</b> as password.<br/>
+            For login use <b>admin</b> as username and <b>admin@password</b> as password.<br/>
             It will load all the required stuffs and perform analysis.
         </p><br/><br/>
 
         <p align="justify">
             Built with 🤍 by 
-            <a href="https://jagadeeshrportfolio.vercel.app/ style="text-decoration: none; color: grey;">Deepak Padhi</a> through 
+            <a href="https://jagadeeshrportfolio.vercel.app/ style="text-decoration: none; color: grey;">Jagadeesh Rallabandi</a> through 
             <a href="https://www.linkedin.com/in/mrbriit/" style="text-decoration: none; color: grey;">Dr Bright --(Data Scientist)</a>
         </p>
 
@@ -693,7 +693,7 @@ def run():
         if st.button('Login'):
             
             ## Credentials 
-            if ad_user == 'adminJag' and ad_password == 'admin@Jag':
+            if ad_user == 'admin' and ad_password == 'admin@password':
                 
                 ### Fetch miscellaneous data from user_data(table) and convert it into dataframe
                 cursor.execute('''SELECT ID, ip_add, resume_score, convert(Predicted_Field using utf8), convert(User_level using utf8), city, state, country from user_data''')
